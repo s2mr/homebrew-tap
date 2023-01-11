@@ -4,8 +4,8 @@ class Xc < Formula
   desc "Open your xcode project with Xcode of specific version"
   homepage "https://github.com/s2mr/xc"
   url "https://github.com/s2mr/xc/releases/download/0.0.2/xc.zip"
-  sha256 "dbc05bd9bb6f52bfc051b9a9a10e9dc2934001d952ce66cac9fef805e4f8782d"
-  license "MIT License"
+  sha256 "24c8c90a5c71e775c395966cdb9364557e294ccebef32d4de64615a0e5c812b4"
+  license "MIT"
 
   def install
     bin.install 'xc'
