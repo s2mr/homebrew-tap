@@ -3,8 +3,8 @@
 class Xc < Formula
   desc ""
   homepage ""
-  url "https://github.com/s2mr/xc/releases/download/0.0.1/xc.zip"
-  sha256 "ea5af86a0697ce2a68bfb8c10dd269c61a33c769a945aaf20728b4e38a187928"
+  url "https://github.com/s2mr/xc/releases/download/0.0.2/xc.zip"
+  sha256 "902b210171064d43e036a103a0450a741fee564989563735d0d8f33a1b558477"
   license ""
 
   def install
